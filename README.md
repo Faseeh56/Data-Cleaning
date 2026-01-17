@@ -58,7 +58,7 @@ The goal of this project is to transform raw data into a **clean, reliable, and 
 ---
 
 ## 📁 Project Files
-- `Data Cleaning.ipynb` → Jupyter Notebook containing the complete data cleaning process
+- `Data_Cleaning.ipynb` → Jupyter Notebook containing the complete data cleaning process
 
 ---
 
